@@ -1,14 +1,24 @@
-### Aditya Petkar
-I build speech models and work on making them run fast. Research intern at IISc (CiNT Lab).
+<h2 align="center">Aditya Petkar</h2>
+<p align="center">
+  Speech models & ML inference · Research intern @ IISc (CiNT Lab) · ICPC regionalist
+  <br/>
+  <a href="https://www.linkedin.com/in/aditya-petkar-7447a2396">LinkedIn</a>
+</p>
 
-**Highlights**
-- **[Hinglish Pocket TTS](https://github.com/AdityaPetkar2024/hinglish-pocket-tts)**: fine-tuned
-  Kyutai's Pocket TTS for Hindi-English code-switching, from Devanagari or Latin script.
-  TA-WER 10.5% vs 13.6% for Kyutai's own new-language recipe, on 320 held-out clips.
-- **[NumpyNet](https://github.com/AdityaPetkar2024/NumpyNet)**: a neural network library built from scratch in NumPy.
+<br/>
 
-**Now**
-- Speech model inference: streaming, quantization, on-device
-- Contributing to open-source voice and inference projects
+### Selected work
 
-ICPC regionalist · [LinkedIn](www.linkedin.com/in/aditya-petkar-7447a2396)
+| Project | What | Result |
+|---|---|---|
+| [**Hinglish Pocket TTS**](https://github.com/AdityaPetkar2024/hinglish-pocket-tts) | Kyutai's Pocket TTS fine-tuned for Hindi-English code-switching, from Devanagari or Latin script | **10.5% TA-WER** vs 13.6% for Kyutai's recipe, 320 held-out clips |
+| [**NumpyNet**](https://github.com/AdityaPetkar2024/NumpyNet) | Neural network library written from scratch in NumPy | No ML frameworks used |
+
+### Now
+
+- Inference for speech models: streaming, quantization, on-device
+- Open-source contributions to voice and inference projects
+
+ 
+
+ 
